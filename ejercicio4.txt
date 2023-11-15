@@ -1,2 +1,4 @@
 Hola esto es un ejemplo
 
+Consulta el fichero ejercicio4-ext.txt para más información.
+

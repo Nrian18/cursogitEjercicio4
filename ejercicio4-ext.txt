@@ -1,0 +1,3 @@
+Este es el fichero extendido del ejercicio 4
+
+Complementará al fichero ejercicio4.txt
